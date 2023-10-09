@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a240c550.css",
+    "main.js": "/static/js/main.0034cec8.js",
+    "static/media/iren.png": "/static/media/iren.2758354e3bcb0883c916.png",
+    "static/media/learnitlive.png": "/static/media/learnitlive.d485fca62a6313f74c48.png",
+    "static/media/example.jpg": "/static/media/example.74899e8fc3fc3aeb3ab2.jpg",
+    "static/media/volstiny_production.png": "/static/media/volstiny_production.0c408c484cf5a4c58d5e.png",
+    "static/media/logo.png": "/static/media/logo.6328696c9eac305aeaef.png",
+    "index.html": "/index.html",
+    "main.a240c550.css.map": "/static/css/main.a240c550.css.map",
+    "main.0034cec8.js.map": "/static/js/main.0034cec8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a240c550.css",
+    "static/js/main.0034cec8.js"
+  ]
+}
